@@ -1,0 +1,42 @@
+body{ 
+    margin:0;
+    padding:0;
+    background-color: #E3E2DF;
+    overflow: hidden; 
+}
+
+#header{
+    margin-top: 6em;
+    text-align: center;
+    color: #5D001E;
+}
+#time{
+    padding-top: 2em;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#table{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding-top: 2em;
+}
+#rememberTable{
+    border-collapse: collapse;
+    border: 2px solid #5D001E;
+    width: 20em;
+}
+
+td{
+    padding: 0.5em;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #960833;
+}
+#showTime{
+    font-size: 1.5em;
+    color: rgb(168, 8, 8);
+    font-weight: bold;
+}

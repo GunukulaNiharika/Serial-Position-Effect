@@ -1,0 +1,52 @@
+body{ 
+    margin:0;
+    padding:0;
+    background-color: #E3E2DF;
+    overflow: hidden; 
+}
+
+.heading{
+    padding-top: 2em;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: #5D001E;
+}
+#table{
+    padding-top: 2em;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#recallTable{
+    border-collapse: collapse;
+    width: 40em;
+    border: 2px solid #5D001E;
+}
+
+td{
+    padding: 0.5em;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #960833;
+}
+.highlight{
+    background-color:  #c2094065;
+}
+
+#done{
+    padding: 2em;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+button{
+    background-color: #9A1750;
+    padding: 1em;
+    border-radius: 1em;
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+}

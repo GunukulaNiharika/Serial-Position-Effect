@@ -1,0 +1,32 @@
+body{ 
+    margin:0;
+    padding:0;
+    background-color: #E3E2DF;
+    overflow: hidden; 
+}
+
+header{
+    text-align: center;
+    color: #5D001E;
+}
+h3{
+    color: black;
+}
+.rules{
+   padding-top: 2em;
+   margin: 2em;
+}
+#start{
+    
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+button{
+    background-color: #9A1750;
+    padding: 1em;
+    border-radius: 1em;
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+}
